@@ -1,0 +1,7 @@
+{
+  "name": "klaus-bot",
+  "type": "module",
+  "dependencies": {
+    "grammy": "^1.21.1"
+  }
+}
